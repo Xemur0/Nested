@@ -13,7 +13,7 @@
 
 1. Добавление комментариев(к посту):
  
-http://localhost:8000/api/v1/comment/
+   http://localhost:8000/api/v1/comment/
 
 Формат:
 <b>
@@ -26,7 +26,7 @@ http://localhost:8000/api/v1/comment/
   
 2. Добавление комментариев к комментарию(вложенность любая):
 
-http://localhost:8000/api/v1/comment/
+   http://localhost:8000/api/v1/comment/
 
 <b>
 Формат:
@@ -38,7 +38,8 @@ http://localhost:8000/api/v1/comment/
 }
  </b>
  
- 3. Получение комментария со всеми потомками:
+ 3. Получение всех комментариев:
+    http://localhost:8000/api/v1/comments/
 
 
  
