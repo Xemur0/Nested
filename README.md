@@ -39,7 +39,12 @@
  </b>
  
  3. Получение всех комментариев:
+ 
     http://localhost:8000/api/v1/comments/
+    
+ 4. Получение комментариев со всеми потомками:
+ 
+    http://localhost:8000/api/v1/comments/<id>
 
 
  
