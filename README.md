@@ -8,3 +8,17 @@
 
 Прикручен Swagger
 <b>localhost:8000/swagger</b>
+
+
+Добавление комментариев:
+
+Формат:
+<b>
+{
+"name":"test2",
+"text":"test2",
+"post":2
+}
+  </b>
+  
+
